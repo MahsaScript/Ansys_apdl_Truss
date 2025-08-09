@@ -1,0 +1,10 @@
+# encoding: utf-8
+# 2020 R1
+SetScriptVersion(Version="20.1.164")
+fileType1 = GetFileType(Name="NastranDataFileType")
+ImportFile(
+    FilePath="C:/DirectoryName3/Job-1.dat",
+    FileType=fileType1)
+system1 = GetSystem(Name="External Model")
+setupComponent1 = system1.GetComponent(Name="Setup")
+setupComponent1.Update(AllDependencies=True)

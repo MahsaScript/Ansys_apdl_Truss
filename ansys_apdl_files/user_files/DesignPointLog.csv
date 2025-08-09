@@ -1,0 +1,28 @@
+﻿# 
+# This file contains the parameter values of the Design Points successfully updated by ANSYS Workbench.
+# Project name: ansys_apdl
+# Creation date: 03/11/2025 14:16:24
+# 
+# 03/11/2025 14:16:24
+# The parameters defined in the project are:
+# ,P3 - Force Magnitude [N],P2 - Mesh Target Quality,P1 - Mesh Element Size [m]
+# 
+# The following header line defines the name of the columns by reference to the parameters.
+Name,P3,P2,P1
+DP 0,1000,0,0
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/11/2025 14:35:32
+# 
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/15/2025 23:01:47
+# 
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/21/2025 14:28:12
+# 
+# 
+# A non parametric change occurred and invalidated design point results.
+# 03/21/2025 15:11:44
+# 
